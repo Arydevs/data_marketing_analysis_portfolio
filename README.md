@@ -1,4 +1,4 @@
-# Ary N. - Data/Marketing Analysis Portfolio 
+# Ary James - Data/Marketing Analysis Portfolio 
 
 ## About
 
