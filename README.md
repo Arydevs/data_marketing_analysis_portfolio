@@ -56,7 +56,7 @@ In this section I will provide links to my github repositories containing code a
 **Status:** Completed in December 2022 (please, check the certificates section below).  
 
 ### Google Python Class
-**Description:** This is a free class for people with a little bit of programming experience who want to learn Python by [Google](https://developers.google.com/edu/python). Topics covered: strings, lists, sorting, dicts, files, regular expressions, utilities, urllib.  
+**Description:** This is a class for people who want an intro to learn Python by [Google](https://developers.google.com/edu/python). Topics covered: strings, lists, sorting, dicts, files, regular expressions, utilities, urllib.  
 **Repository:** Containing 10 cool projects including: mimicking random text generator, baby-names popularity counter (based on data from The Social Security administration US), etc. ---> [go to repo..](https://github.com/arydevs/google_python_class)  
 **Status:** Completed in December 2022.  
 
