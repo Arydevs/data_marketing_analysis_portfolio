@@ -75,4 +75,4 @@ In this section I will provide links to my github repositories containing code a
 - LinkedIn: [@ary](https://www.linkedin.com/in/ary-n/)
 - Twitter: [@arydevs](https://twitter.com/arydevs)
 - E-mail: arydevs@gmail.com
--
+
