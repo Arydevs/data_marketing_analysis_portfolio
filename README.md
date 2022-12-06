@@ -6,7 +6,7 @@ Hi, I'm Ary! I am a Results-driven and dedicated graduate from University of Cal
 
 Achieved 1st place at the 2022 LA Tech Week Hackathon hosted by HackerFund (https://www.hacker.fund)
 
-You can view most of my achievements on https://www.linkedin.com/in/ary-n/    
+You can view most of my achievements, and prior work history on https://www.linkedin.com/in/ary-n/    
 
 <br>
 This is a repository to showcase skills, share projects and track my progress in Data Analytics / Data Science related topics. 
