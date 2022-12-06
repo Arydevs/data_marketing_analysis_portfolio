@@ -2,7 +2,7 @@
 
 ## About
 
-Hi, I'm Ary! I am a Results-driven and dedicated graduate from University of California, Davis providing financial forecasting, and creative direction in order to drive successful business solutions. Proficient knowledge in Data/Marketing Analysis(SQL, Python, and Tableau), Blockchain development, Statistics, Javascript, Solidity, UI/UX design using Figma and Adobe XD, Mathematics, Analytics, Audio Engineering. Communication experience with signed artists, and record labels from Owning/Audio Engineering freelance music collective, Hyper Records. Experience with cross-functional teamwork, and post-production management in order to develop, document, and deliver innovative, and cost-effective, solutions to reach business goals for both artists, and companies.
+Hi, I'm Ary! I am a Results-driven and dedicated graduate from University of California, Davis providing financial forecasting, and creative direction in order to drive successful business solutions. Proficient knowledge in Data/Marketing Analysis(SQL, Python, and Tableau), Blockchain development, Statistics, Javascript, Solidity, UI/UX design using Figma and Adobe XD, Mathematics, Analytics, and Audio Engineering. Communication experience with signed artists, and record labels from Owning/Audio Engineering a freelance music collective, HyperRap Records. Experience with cross-functional teamwork, and post-production management in order to develop, document, and deliver innovative, and cost-effective, solutions to reach business goals for both artists, and companies.
 
 Achieved 1st place at the 2022 LA Tech Week Hackathon hosted by HackerFund (https://www.hacker.fund)
 
