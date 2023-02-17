@@ -66,7 +66,7 @@ In this section I will provide links to my github repositories containing code a
 **Status:** ∞  
 
 ### Tableau Vizzes
-**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/arya.nasseri)  
+**Description:** My Tableau Public account ---> [go to Tableau..](https://public.tableau.com/app/profile/aryjames)  
 **Status:** ∞  
 
 ## Certificates
